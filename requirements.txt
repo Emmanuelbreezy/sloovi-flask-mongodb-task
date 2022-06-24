@@ -1,7 +1,6 @@
 attrs==21.4.0
 click==8.0.4
 colorama==0.4.5
-dataclasses==0.8
 decorator==5.1.1
 dnspython==2.0.0
 flasgger==0.9.5
@@ -25,4 +24,3 @@ typing_extensions==4.1.1
 validators==0.20.0
 Werkzeug==2.0.3
 zipp==3.6.0
-dataclasses==0.8
